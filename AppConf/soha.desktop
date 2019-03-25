@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Soha
+Name[en_US]=soha
+Name[en_US.UTF-8]=soha
+Name[fa]=سها
+GenericName[fa]=تقویم پارسی سها
+Comment=Soha persian calendar
+Exec=soha
+Icon=soah
+Terminal=false
+Type=Application
+Keywords=Utility;
+Categories=Utility;Qt;

@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">Modules/Main/main.qml</file>
+        <file alias="strings/MainStrings.js">Modules/Main/strings/MainStrings.js</file>
+        <file alias="qtquickcontrols2.conf">AppConf/qtquickcontrols2.conf</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file alias="rightAngleArrow.png">Util/Images/rightAngleArrow.png</file>
+        <file alias="leftAngleArrow.png">Util/Images/leftAngleArrow.png</file>
+        <file alias="holiday.svg">Util/Images/holiday.svg</file>
+        <file alias="iran.svg">Util/Images/iran.svg</file>
+        <file alias="ksa.svg">Util/Images/ksa.svg</file>
+        <file alias="lonar.svg">Util/Images/lonar.svg</file>
+        <file alias="national.svg">Util/Images/national.svg</file>
+        <file alias="personage.svg">Util/Images/personage.svg</file>
+        <file alias="usa.svg">Util/Images/usa.svg</file>
+        <file alias="world.svg">Util/Images/world.svg</file>
+        <file alias="questionMark.svg">Util/Images/questionMark.svg</file>
+        <file alias="close.svg">Util/Images/close.svg</file>
+    </qresource>
+    <qresource prefix="/Jalali">
+        <file alias="JalaliCalendar.qml">Modules/Jalali/JalaliCalendar.qml</file>
+        <file alias="JalaliCalendarStyle.qml">Modules/Jalali/JalaliCalendarStyle.qml</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file alias="XMYekan.ttf">Util/Font/XMYekan.ttf</file>
+        <file alias="Vazir-FD.ttf">Util/Font/Vazir-FD.ttf</file>
+    </qresource>
+    <qresource prefix="/Events">
+        <file alias="PersianSoloar.js">Modules/Main/events/JS/PersianSolar.js</file>
+        <file alias="PersianLonar.js">Modules/Main/events/JS/PersianLonar.js</file>
+        <file alias="PersianNational.js">Modules/Main/events/JS/PersianNational.js</file>
+        <file alias="PersianPersonage.js">Modules/Main/events/JS/PersianPersonage.js</file>
+        <file alias="World.js">Modules/Main/events/JS/World.js</file>
+        <file alias="PersianSolar.json">Modules/Main/events/JSon/PersianSolar.json</file>
+        <file alias="PersianLonar.json">Modules/Main/events/JSon/PersianLonar.json</file>
+        <file alias="PersianNational.json">Modules/Main/events/JSon/PersianNational.json</file>
+        <file alias="PersianPersonage.json">Modules/Main/events/JSon/PersianPersonage.json</file>
+        <file alias="World.json">Modules/Main/events/JSon/World.json</file>
+    </qresource>
+    <qresource prefix="/Util">
+        <file alias="ToolTiper.qml">Util/Qml/ToolTiper.qml</file>
+        <file alias="LinArcxTextField.qml">Util/Qml/LinArcxTextField.qml</file>
+        <file alias="LinArcXButton.qml">Util/Qml/LinArcXButton.qml</file>
+        <file alias="LinArcxPopUp.qml">Util/Qml/LinArcxPopUp.qml</file>
+    </qresource>
+</RCC>
