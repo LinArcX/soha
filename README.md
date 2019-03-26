@@ -11,6 +11,8 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 
 > السها هو نجم مرافق لنجم المئزر وأكثر خفوتاً منه، لكنهما نجم مزدوج بالنسبة للناظر من على سطح الأرض بالعين المجردة الموجود في كوكبة الدب الأكبر
 
+!["soha"](AppConf/soha.svg "soha")
+
 ## Purposes
 1. Provide a modern/simple UI for persian users who want to see dates and events in a quick glance.
 2. Can be used as a __date-converter__.
