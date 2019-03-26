@@ -1,11 +1,11 @@
 # Soha ![Language](https://img.shields.io/github/languages/top/LinArcX/Soha.svg?style=flat-square) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/Soha.svg?style=flat-square) ![Latest Tag](https://img.shields.io/github/tag/LinArcX/Soha.svg?colorB=green&style=flat-square)
-A modern persian calendar written by qt to see dates and events in a quick glance.
+A modern calendar written by qt to see dates and events in a quick glance.
 
 ## Preview
 !["gnulium"](ScreenShots/1.0.0/Soha.png "gnulium")
 
 ## Purposes
-1. Provide a modern/simple UI for persian users who want to see dates and events in a quick glance.
+1. Provide a modern/simple UI for users who want to see dates and events in a quick glance.
 2. Can be used as a __date-converter__.
 
 ## Features
