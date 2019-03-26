@@ -4,20 +4,6 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 ## Preview
 !["gnulium"](ScreenShots/1.0.0/Soha.png "gnulium")
 
-## What is Soha
-> ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
-
-> Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major.
-
-> السها هو نجم مرافق لنجم المئزر وأكثر خفوتاً منه، لكنهما نجم مزدوج بالنسبة للناظر من على سطح الأرض بالعين المجردة الموجود في كوكبة الدب الأكبر
-
-<h1 align="center">
-	<img width="300" src="AppConf/soha.svg" alt="Soha">
-	<br>
-	<br>
-    <p2>Soha</p2>
-</h1>
-
 ## Purposes
 1. Provide a modern/simple UI for persian users who want to see dates and events in a quick glance.
 2. Can be used as a __date-converter__.
@@ -92,3 +78,17 @@ E-Mail:linarcx@gmail.com
 
 ## License
 ![License](https://img.shields.io/github/license/LinArcX/Gnulium.svg?style=flat-square)
+
+## What is Soha
+> ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
+
+> Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major.
+
+> السها هو نجم مرافق لنجم المئزر وأكثر خفوتاً منه، لكنهما نجم مزدوج بالنسبة للناظر من على سطح الأرض بالعين المجردة الموجود في كوكبة الدب الأكبر
+
+<h1 align="center">
+	<img width="200" src="AppConf/soha.svg" alt="Soha">
+	<br>
+	<br>
+    <p2>Soha</p2>
+</h1>
