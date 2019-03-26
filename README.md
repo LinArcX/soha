@@ -1,4 +1,4 @@
-# Soha ![Language](https://img.shields.io/github/languages/top/LinArcX/Soha.svg?style=flat-square) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/Gnulium.svg?style=flat-square) ![Latest Tag](https://img.shields.io/github/tag/LinArcX/Soha.svg?colorB=green&style=flat-square)
+# Soha ![Language](https://img.shields.io/github/languages/top/LinArcX/Soha.svg?style=flat-square) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/Soha.svg?style=flat-square) ![Latest Tag](https://img.shields.io/github/tag/LinArcX/Soha.svg?colorB=green&style=flat-square)
 A modern persian calendar written by qt to see dates and events in a quick glance.
 
 ## Preview
@@ -8,6 +8,7 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 > ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
 
 > Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major.
+
 > السها هو نجم مرافق لنجم المئزر وأكثر خفوتاً منه، لكنهما نجم مزدوج بالنسبة للناظر من على سطح الأرض بالعين المجردة الموجود في كوكبة الدب الأكبر
 
 ## Purposes
