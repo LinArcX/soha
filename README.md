@@ -1,4 +1,4 @@
-# Soha ![Language](https://img.shields.io/github/languages/top/LinArcX/Soha.svg?style=flat-square) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/Gnulium.svg?style=flat-square) ![Latest Tag](https://img.shields.io/github/tag/LinArcX/Soha.svg?colorB=green&style=flat-square)
+# Soha ![Language](https://img.shields.io/github/languages/top/LinArcX/Soha.svg?style=flat-square) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/Soha.svg?style=flat-square) ![Latest Tag](https://img.shields.io/github/tag/LinArcX/Soha.svg?colorB=green&style=flat-square)
 A modern persian calendar written by qt to see dates and events in a quick glance.
 
 ## Preview
@@ -6,7 +6,9 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 
 ## What is Soha
 > ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
+
 > Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major.
+
 > السها هو نجم مرافق لنجم المئزر وأكثر خفوتاً منه، لكنهما نجم مزدوج بالنسبة للناظر من على سطح الأرض بالعين المجردة الموجود في كوكبة الدب الأكبر
 
 ## Purposes
@@ -61,7 +63,7 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 
 
 ## Contributing
-![Open PR](https://img.shields.io/github/issues-pr-raw/LinArcX/Gnulium.svg?style=flat-square) ![Closed PR](https://img.shields.io/github/issues-pr-closed/LinArcX/Gnulium.svg?style=flat-square)
+![Open PR](https://img.shields.io/github/issues-pr-raw/LinArcX/Soha.svg?style=flat-square) ![Closed PR](https://img.shields.io/github/issues-pr-closed/LinArcX/Soha.svg?style=flat-square)
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
@@ -70,7 +72,7 @@ A modern persian calendar written by qt to see dates and events in a quick glanc
 
 
 ## Bugs
-![Open Issues](https://img.shields.io/github/issues-raw/LinArcX/Soha.svg?style=flat-square) ![Issues](https://img.shields.io/github/issues-closed-raw/LinArcX/Gnulium.svg?style=flat-square)
+![Open Issues](https://img.shields.io/github/issues-raw/LinArcX/Soha.svg?style=flat-square) ![Issues](https://img.shields.io/github/issues-closed-raw/LinArcX/Soha.svg?style=flat-square)
 
 Bugs should be reported [here](https://github.com/LinArcX/Soha/issues) on the Github issues page.
 
