@@ -76,9 +76,6 @@ Github Repo:[https://github.com/LinArcX](https://github.com/LinArcX)
 
 E-Mail:linarcx@gmail.com
 
-## License
-![License](https://img.shields.io/github/license/LinArcX/Gnulium.svg?style=flat-square)
-
 ## What is Soha
 > ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
 
@@ -92,3 +89,6 @@ E-Mail:linarcx@gmail.com
 	<br>
     <p2>Soha</p2>
 </h1>
+
+## License
+![License](https://img.shields.io/github/license/LinArcX/Gnulium.svg?style=flat-square)
