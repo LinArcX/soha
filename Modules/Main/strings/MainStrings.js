@@ -1,4 +1,4 @@
-var appTitle = "Taghvim";
+var appTitle = "Soha";
 var leftArrow = "qrc:/Images/leftAngleArrow.png";
 var rightArrow = "qrc:/Images/rightAngleArrow.png";
 var appColor = "#efece8"
