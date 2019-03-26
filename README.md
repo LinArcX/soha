@@ -2,7 +2,7 @@
 A modern persian calendar written by qt to see dates and events in a quick glance.
 
 ## Preview
-!["gnulium"](./Shots/1.0.0/Soha.png "gnulium")
+!["gnulium"](ScreenShots/1.0.0/Soha.png "gnulium")
 
 ## What is Soha
 > ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .

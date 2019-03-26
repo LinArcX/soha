@@ -23,5 +23,5 @@ RESOURCES += $$files(*.qrc, true)
 #}
 
 windows {
-    RC_FILE = taghvim.rc
+    RC_FILE = soha.rc
 }
