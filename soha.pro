@@ -1,12 +1,13 @@
-#TEMPLATE = app
-
 QT += qml quick quickcontrols2
 CONFIG += c++11
-#console
 
 SOURCES += $$files(*.cpp, true) $$files(*.c, true)
 HEADERS += $$files(*.h, true)
 RESOURCES += $$files(*.qrc, true)
+
+windows {
+    RC_FILE = soha.rc
+}
 
 # CXXFLAGS
 #QMAKE_CXXFLAGS += #-Werror=old-style-cast #-static-libgcc -static-libstdc++
@@ -22,6 +23,4 @@ RESOURCES += $$files(*.qrc, true)
 #    LIBS += "$$PWD/Util/Libs/lib/libcalendars.a"
 #}
 
-windows {
-    RC_FILE = soha.rc
-}
+
