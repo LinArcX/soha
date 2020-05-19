@@ -55,28 +55,7 @@ A modern calendar written by qt to see dates and events in a quick glance.
     `./soha`
 
 
-## Contributing
-![Open PR](https://img.shields.io/github/issues-pr-raw/LinArcX/Soha.svg?style=flat-square) ![Closed PR](https://img.shields.io/github/issues-pr-closed/LinArcX/Soha.svg?style=flat-square)
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-
-## Bugs
-![Open Issues](https://img.shields.io/github/issues-raw/LinArcX/Soha.svg?style=flat-square) ![Issues](https://img.shields.io/github/issues-closed-raw/LinArcX/Soha.svg?style=flat-square)
-
-Bugs should be reported [here](https://github.com/LinArcX/Soha/issues) on the Github issues page.
-
-
-## Credits
-LinArcX
-Github Repo:[https://github.com/LinArcX](https://github.com/LinArcX)
-
-E-Mail:linarcx@gmail.com
-
-## What is Soha? 
+## What is Soha?
 > ستاره ای کوچک و کم نور در صورت فلکی دب اکبر در انتهای ملاقه پهلوی عناق .
 
 > Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major.
@@ -89,6 +68,10 @@ E-Mail:linarcx@gmail.com
 	<br>
     <p2>Soha</p2>
 </h1>
+
+## Donate
+- Monero: `48VdRG9BNePEcrUr6Vx6sJeVz6EefGq5e2F5S9YV2eJtd5uAwjJ7Afn6YeVTWsw6XGS6mXueLywEea3fBPztUbre2Lhia7e`
+<img src="assets/monero.png" align="center" />
 
 ## License
 ![License](https://img.shields.io/github/license/LinArcX/Gnulium.svg?style=flat-square)
